@@ -552,7 +552,7 @@ ML_SERVICE_URL=https://ml-api.jana-setu.com
 
 <div align="center">
 
-## 🌟 Built with ❤️ by Team VisionX
+
 
 **JANA SETU - Where Citizens Meet Governance**
 
